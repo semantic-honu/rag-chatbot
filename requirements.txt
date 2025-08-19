@@ -3,4 +3,4 @@ langchain-community
 langchain-chroma
 langchain-ollama
 ollama
-pypdf
+pypdf>=6.0.0 # 脆弱性が修正されたバージョン以降を明示
