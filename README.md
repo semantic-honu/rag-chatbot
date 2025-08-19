@@ -87,3 +87,18 @@ RagChatbotは、ローカルのPDFドキュメントに基づいて質問に答�
 ## 📝 ライセンス
 
 このプロジェクトは、MITライセンスのもとで公開されています。
+
+
+## 使用ライブラリとライセンス一覧
+
+このプロジェクトでは以下のOSSライブラリを使用しています。各ライブラリのライセンス条項に従い、著作権表示および免責事項を遵守しています。
+
+| ライブラリ名             | ライセンス       |
+|--------------------------|------------------|
+| langchain                | MIT              |
+| langchain-community      | MIT              |
+| langchain-chroma         | MIT              |
+| langchain-ollama         | MIT              |
+| ollama                   | MIT              |
+| pypdf                    | BSD-2-Clause     |
+| phi3                     | MIT              |
